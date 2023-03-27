@@ -60,7 +60,7 @@ Start the server
 
 Usage
 
-## Screenshots
+
 ## Screenshots
 ![Enter your query in the Search Bar!](https://user-images.githubusercontent.com/61850850/82748691-af172500-9dc1-11ea-828b-97c8136037fd.png)
 Enter your query in the Search Bar!  
