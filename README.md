@@ -62,7 +62,5 @@ Usage
 
 
 
-## Acknowledgements
 
-- Jonas Schmedtmann - Inspiration and guidance for the project
 
