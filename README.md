@@ -36,7 +36,7 @@ To run Forkify locally, you'll need to have Node.js and NPM (Node Package Manage
 Clone the project
 
 ```bash
- git clone https://github.com/pranaydwivedi444/Forkify
+ git clone https://github.com/shubhanakarsapa/Forkify
 
 ```
 
